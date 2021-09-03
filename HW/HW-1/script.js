@@ -1,8 +1,7 @@
-
-let radius = 0.7;
+let radius = 10;
 let square=Math.PI *radius**2;
 // console.log(square);
-let height = 0.6;
+let height = 20;
 let volume=square*height;
 // console.log(volume);
 let stars= "************";
